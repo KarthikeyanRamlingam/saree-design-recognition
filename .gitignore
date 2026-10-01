@@ -1,0 +1,15 @@
+data/raw/
+data/images/
+data/splits/
+outputs/
+checkpoints/
+*.pt
+*.pth
+*.onnx
+*.zip
+__pycache__/
+.pytest_cache/
+.venv/
+.env
+*.egg-info/
+
